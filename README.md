@@ -2,7 +2,7 @@
 
 ## Usage:
 
-url -s https://raw.githubusercontent.com/asperheim/syslog-graylog-forwarder/main/append.sh | sudo bash -s <ip of graylog>
+url -s https://raw.githubusercontent.com/asperheim/syslog-graylog-forwarder/main/append.sh | sudo bash -s "ip or hostname of receiver"
 
 ## Example:
 
