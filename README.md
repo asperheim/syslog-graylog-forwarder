@@ -13,3 +13,4 @@ url -s https://raw.githubusercontent.com/asperheim/syslog-graylog-forwarder/main
 * Only works in Ubuntuish OS's
 * You need sudo
 * Port is static in the append script. And it is non standard!
+* Uses TCP instead of UDP
